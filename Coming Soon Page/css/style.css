@@ -1,0 +1,97 @@
+body{
+  font-family: 'Roboto Slab', serif;
+  background: url(../images/apple-iphone-desk-office.jpg)  no-repeat center center fixed;
+  color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: auto;
+}
+.nav a{
+  color: #fff;
+}
+.navbar-nav>li>a:hover,.navbar-nav>li>a:active,.navbar-nav>li>a:focus{
+  background: transparent;
+}
+.navbar-abacus{
+  background: #87B821;
+  font-weight: 700;
+}
+.navbar-brand{
+  color: #fff;
+  font-weight: 700;
+  font-size: 36px;
+}
+.navbar-brand:hover{
+  color: #eee;
+}
+.navbar-toggle{
+  color: #fff;
+}
+.comesoon-head{
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+.sub-head{
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+.header{
+  border-bottom: 1px solid #fff;
+  padding-bottom: 10px;
+}
+.countdown-wrapper{
+  font-family: 'Lato', sans-serif;
+}
+.countdown {
+  list-style: none;
+  padding: 0;
+  display: block;
+  text-align: center;
+}
+.countdown li {
+  display: inline-block;
+  padding: 40px;
+}
+.countdown li span {
+  font-size: 80px;
+  font-weight: 300;
+  height: 80px;
+  width: 80px;
+  line-height: 80px;
+  margin-left: -4px;
+}
+ul.countdown li p {
+  color: #a7abb1;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.days {
+
+  padding: 0 10px;
+  color: #fff;
+}
+.subscribe-input{
+  padding: 15px 40px;
+  width: 100%;
+  color: #fff;
+  background: #454C52;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+.subs{
+  background: #454C52;
+  padding: 15px 30px;
+  color : #fff;
+  border: 1px solid #000;
+  text-align: center;
+  border-radius: 5px;
+  border-bottom: 3px solid #000;
+}
+form,.comesoon-head{
+  margin-top: 3%;
+}
+.form-abacus{
+  margin-bottom: 1%;
+}
